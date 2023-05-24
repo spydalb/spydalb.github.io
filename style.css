@@ -1,0 +1,31 @@
+.Marlon {
+width: 25%;
+text-align: center;
+border-top: 50%;
+}
+header{
+    text-align: center;
+    background-color: green;
+}
+footer{
+text-align: right;
+background-color: green;
+}
+section{
+    text-align: justify;
+    background-color: brown;
+}
+
+/* .personalInfo{
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+} */
+/* .mainInfo{
+    display: grid;
+    grid-template-columns: 400px 500px 200px;
+    max-height: 500px;
+} */
+/* Education{
+    background-color: darkgrey;
+    text-align: center;
+} */
